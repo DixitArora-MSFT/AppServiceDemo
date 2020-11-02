@@ -2,6 +2,7 @@ name: Deploy ASP.NET CORE
 
 on:
   push:
+    branches:
 
 env:
 AZURE_WEBAPP_NAME: GitActionDemo
