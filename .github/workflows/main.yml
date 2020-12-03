@@ -6,7 +6,7 @@ on:
     branches:
 
 env:
-  AZURE_WEBAPP_NAME: GitActionDemo
+  AZURE_WEBAPP_NAME: GitActionDemo1234
   AZURE_WEBAPP_PATH: '.'
   DOTNET_VERSION: '3.1.402'
 
